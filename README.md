@@ -7,4 +7,4 @@ Requires Wouter Van Ooijen's [hwlib](https://github.com/wovo/hwlib) to operate.
 
 [main.cpp](../master/src/main.cpp) demonstrates some usage.
 
-Further documentation can be found in the the class definition of the [Header File itself.](../master/src/main.cpp)
+Further documentation can be found in the the class definition of the [Header File itself.](../master/src/mpu6050.hpp)
